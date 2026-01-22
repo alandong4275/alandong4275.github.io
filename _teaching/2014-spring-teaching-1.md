@@ -9,12 +9,3 @@ location: "City, Country"
 ---
 
 Supervised 16 students in the 3rd year undergraduate module 3F3 Statistical Signal Processing.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
