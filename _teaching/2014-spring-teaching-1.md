@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "3F3 Statistical Signal Processing"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate supervisions"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Cambridge, Department of Engineering"
+date: 2025
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Supervised 16 students in the 3rd year undergraduate module 3F3 Statistical Signal Processing.
 
 Heading 1
 ======
