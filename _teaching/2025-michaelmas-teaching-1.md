@@ -2,9 +2,9 @@
 title: "3F3 Statistical Signal Processing"
 collection: teaching
 type: "Supervisor"
-permalink: /teaching/2025-michaelmas-teaching-3
+permalink: /teaching/2025-michaelmas-teaching-1
 venue: "University of Cambridge, Department of Engineering"
-date: 2025-10-01
+date: 2025-10-20
 location: "City, Country"
 ---
 
