@@ -19,8 +19,9 @@ Work experience
 ======
 * Jul-Aug 2024: Silicon Physical Design Intern
   * Graphcore
-[//]: #  * Duties includes: Updates and improvements to template
-[//]: #  * Supervisor: The Users
+    
+[//]: # (* Duties includes: Updates and improvements to template)
+[//]: # (* Supervisor: The Users)
 
 * Jul-Sep 2023: Silicon Logical Design Intern
   * Graphcore
