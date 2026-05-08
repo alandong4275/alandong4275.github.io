@@ -1,7 +1,7 @@
 ---
 title: "IA Computing"
 collection: teaching
-type: "Coursework"
+type: "Marker"
 permalink: /teaching/2025-michaelmas-teaching-2
 venue: "Department of Engineering, University of Cambridge"
 date: 2025-10-01
