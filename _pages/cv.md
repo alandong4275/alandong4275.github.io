@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Engineering, University of Cambridge, 2025-2028 (expected)
-* M.Eng. in Engineering, University of Cambridge, 2024-2025
-* B.A. in Engineering, University of Cambridge, 2021-2024
+* Ph.D. in Engineering, University of Cambridge, Sep 2025 - 2028 (expected)
+* M.Eng. in Engineering, University of Cambridge, Sep 2024 - Jul 2025
+* B.A. in Engineering, University of Cambridge, Sep 2021 - Jul 2024
 
 Work experience
 ======
-* Silicon Physical Design Intern, Graphcore, Jul - Aug 2024
+* Silicon Physical Design Intern, Graphcore, Jul 2024 - Aug 2024
   * Developed an experimental Python tree algorithm for identifying common groupings of standard cells in a
 processor netlist to reduce power consumption, assembling a database of logically equivalent groupings with
 their number of instances. Delivered grouping proposals for a relevant processor.
@@ -25,7 +25,7 @@ their number of instances. Delivered grouping proposals for a relevant processor
 [//]: # (* Duties includes: Updates and improvements to template)
 [//]: # (* Supervisor: The Users)
 
-* Silicon Logical Design Intern, Graphcore, Jul - Sep 2023
+* Silicon Logical Design Intern, Graphcore, Jul 2023 - Sep 2023
   * Designed a FP32 hardware instruction to compute a quick approximation for an ML activation function in
 10x fewer instruction cycles, optimised for timing and functionally verified with a companion testbench. Ran
 inference tests with LLMs to compare performance against exact function and established approaches
@@ -33,7 +33,7 @@ inference tests with LLMs to compare performance against exact function and esta
 [//]: #  (* Duties included: Merging pull requests)
 [//]: #  (* Supervisor: Professor Hub)
 
-* Silicon Verification Intern, Graphcore, Jul-Sep 2022
+* Silicon Verification Intern, Graphcore, Jul 2022 - Sep 2022
   * Delivered up to 100x faster Python message parsing from external EDA tools using Intel Hyperscan, core to a
 Python/C++/SQL database system used for processor development. Built a Python tool to generate random
 strings from regular expressions, used to evaluate performance of regex libraries and create unit tests.
