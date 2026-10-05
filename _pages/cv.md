@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Engineering, University of Cambridge, 2025-2028 (expected)
+* Ph.D. in Engineering, University of Cambridge, 2025-2028 (expected)
 * M.Eng. in Engineering, University of Cambridge, 2024-2025
 * B.A. in Engineering, University of Cambridge, 2021-2024
 
@@ -29,7 +29,7 @@ Work experience
 [//]: #  (* Duties included: Merging pull requests)
 [//]: #  (* Supervisor: Professor Hub)
 
-* Jul-Sep 2026: Silicon Verification Intern
+* Jul-Sep 2022: Silicon Verification Intern
   * Graphcore
     
 [//]: #  (* Duties included: Tagging issues)
@@ -42,7 +42,7 @@ Work experience
 [//]: # * Sub-skill 2.1
 [//]: # * Sub-skill 2.2
 [//]: # * Sub-skill 2.3
-[//]: # * Skill 3)
+[//]: # * Skill 3
 <!--
 [//]: # (Publications)
 [//]: # (======)
