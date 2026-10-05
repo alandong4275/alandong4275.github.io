@@ -28,7 +28,7 @@ their number of instances. Delivered grouping proposals for a relevant processor
 * Silicon Logical Design Intern, Graphcore, Jul 2023 - Sep 2023
   * Designed a FP32 hardware instruction to compute a quick approximation for an ML activation function in
 10x fewer instruction cycles, optimised for timing and functionally verified with a companion testbench. Ran
-inference tests with LLMs to compare performance against exact function and established approaches
+inference tests with LLMs to compare performance against exact function and established approaches.
     
 [//]: #  (* Duties included: Merging pull requests)
 [//]: #  (* Supervisor: Professor Hub)
